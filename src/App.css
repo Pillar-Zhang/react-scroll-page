@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.page{
+  min-height: 100vh
+}
+.page-one{
+  background-color:goldenrod
+}
+
+.page-two{
+  background-color: red
+}
+.page-three{
+  background-color: yellow
+}
+.page-four{
+  background-color: green
+}
+.page-five{
+  background-color: blue
+}
+.page-six{
+  background-color: gray
+}
